@@ -1,4 +1,4 @@
-# Pregrad-Projet
+# Pregrad-Project
 
 Zomato Bangalore Restaurants Analysis
 This project analyzes the Zomato Bangalore restaurant dataset to gain insights into the food and dining preferences of the city. It includes data cleaning, exploratory data analysis (EDA), and preprocessing to prepare the data for potential machine learning applications.
